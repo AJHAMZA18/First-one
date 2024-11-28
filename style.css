@@ -1,0 +1,31 @@
+*{margin: 0;}
+#kolchi{
+    background-color: blue;
+    width: ;
+    height:70px ;
+    display: flex;
+    
+}
+h2{
+    color: aqua;
+    padding-top: 15px;
+    transition: 0.5s;
+}
+#list a{
+   padding: 8px;
+   font-size: 25px;
+   cursor: pointer;
+   text-decoration: none;
+   position: relative;
+   left: 950px; 
+   top: 15px;
+   transition: 1s;
+}
+#list a:hover{
+    color: white;
+
+}
+h2:hover{
+    color: yellow;
+    cursor: pointer;
+}

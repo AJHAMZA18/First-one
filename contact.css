@@ -1,0 +1,22 @@
+*{margin: 0;}
+#koulchi{
+    text-align: center;
+    background-color: aqua;
+    width: 400px;
+    height: 100px;
+   position: relative;
+   top: 150px;
+   left: 500px;
+}
+p{
+    position: relative;
+    top: 40px;
+}
+h2{
+    position: relative;
+    top: 20px;
+    font-size: 30px;
+}
+h2:hover{
+    color: brown;
+}
